@@ -3,6 +3,7 @@
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 h1{
     font-size: 60px;
@@ -25,4 +26,11 @@ margin-top: 2%;
     background-image: linear-gradient(chocolate, tomato);
     padding: 10px 20px;
     border-radius: 20px;
+}
+.set-margin{
+    margin-top: 30px;
+}
+.about-me{
+    background-image: url(images/shape/7.png);
+    background-repeat: no-repeat;
 }
