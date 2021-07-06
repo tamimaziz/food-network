@@ -27,7 +27,6 @@ margin-top: 5%;
     padding: 10px 20px;
     border-radius: 20px;
 }
-}
 .about-me{
     background-image: url(images/shape/7.png);
     background-repeat: no-repeat;
@@ -47,8 +46,9 @@ margin-top: 5%;
 }
 .footer{
     text-align: center;
-    position: fixed;
     left: 0;
+    padding-top: 2px;
+    padding-bottom: 10px;
     bottom: 0;
     width: 100%;
     background-color: black;
@@ -57,3 +57,4 @@ margin-top: 5%;
 .color{
     color: grey;
 }
+
